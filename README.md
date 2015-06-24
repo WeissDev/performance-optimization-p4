@@ -2,7 +2,7 @@
 
 These are my project files for Udacity's Web Performance project. To have a look at it you can clone or download the zip file and then click on index.html. The main page includes a timer at the bottom of the page where you can see how long it took the browser to go through the critical rendering path.
 
-Alternatively simply follow this link: http://weissdev.github.io/
+Alternatively simply follow this link: http://weissdev.github.io/performance-optimization-p4/
 
 To view the render-optimized pizza page to see pizza's flying around at a smooth 60FPS+ follow this link: http://weissdev.github.io/views/pizza.html
 
