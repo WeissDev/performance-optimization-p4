@@ -4,7 +4,7 @@ These are my project files for Udacity's Web Performance project. To have a look
 
 Alternatively simply follow this link: http://weissdev.github.io/performance-optimization-p4/
 
-To view the render-optimized pizza page to see pizza's flying around at a smooth 60FPS+ follow this link: http://weissdev.github.io/views/pizza.html
+To view the render-optimized pizza page to see pizza's flying around at a smooth 60FPS+ follow this link: http://weissdev.github.io/performance-optimization-p4/views/pizza.html
 
 ## Goal 1: Optimize Cameron Pittmans Sample Portfolio Page
 
